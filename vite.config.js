@@ -10,7 +10,7 @@ export default defineConfig({
     registerType: 'autoUpdate',
     manifest: {
       name: 'Vite Todo App',
-      short_name: 'PWA',
+      short_name: 'Vite Todo',
       description: 'Vite Todo App',
       theme_color: '#ffffff',
       icons: [
