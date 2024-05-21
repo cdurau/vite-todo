@@ -2,15 +2,17 @@ import React from 'react'
 import AddTodo from './AddTodo'
 import TodoItem from './TodoItem'
 
+import List from '@mui/material/List'
+
 
 function TodoList() {
     return (
-        <div>
+        <List>
             <AddTodo />
             <TodoItem />
             <TodoItem />
             <TodoItem />
-        </div>
+        </List>
     )
 }
 
