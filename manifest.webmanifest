@@ -1,0 +1,1 @@
+{"name":"Vite Todo App","short_name":"PWA","start_url":"/vite-todo/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/vite-todo/","description":"Vite Todo App","theme_color":"#ffffff","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png"}]}
